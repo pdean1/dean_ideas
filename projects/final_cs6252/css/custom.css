@@ -1,0 +1,63 @@
+/** 
+  Custom Created Styles
+  Created By: Patrick Dean
+	Date:       04.03.2015
+**/
+
+/*~~ For Errors ~~*/
+.input-error {
+	border-color: #D0BCBC;
+	background-color: #F2DEDE;
+}
+
+.input-success {
+	border-color: #BDD0B6;
+	background-color: #DFF0D8;
+}
+
+.uwg-heading {
+	font-weight: bolder;
+	letter-spacing: -.1em;
+}
+
+.uwg-heading .dark-blue {
+	color: #051DA8;
+}
+
+.uwg-heading .light-blue {
+	color: #57A9EB;
+}
+
+body {
+	margin-top: 50px !important;
+}
+
+.home-row {
+	border: 3px solid #333;
+}
+
+.home-btns {
+	cursor: pointer;
+	border-bottom: 2px;
+	border-left: 1px;
+	border-right: 1px;
+	border-top: 2px;
+	border: solid transparent;
+	background-color: #ddd;
+	color: #333;
+}
+
+.home-btns:hover h1 {
+	color: #c0c0c0;
+	text-shadow: 0px 0px 3px #fff;
+}
+
+.home-btns:hover h2 {
+	background-color: rgba(255, 255, 255, 1);
+	box-shadow: 0px 0px 10px #fff;
+	border-radius: 10px;
+}
+
+.home-btns:hover {
+	background-color: #333;
+}

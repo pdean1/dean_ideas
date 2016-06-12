@@ -1,0 +1,1 @@
+THE SQL SCRIPTS ARE IN THE FOLDER assignment_files/sql/creation_script.sql
