@@ -35,7 +35,7 @@
         <a href=".?action=view_register" class="btn btn-default">Create One</a>
       </div>
     </div>
-    <address style="text-align: center;">&copy; Patrick Dean <?php echo date('Y');?>. <?php print_r($_SESSION)?></address>
+    <address style="text-align: center;">&copy; Patrick Dean <?php echo date('Y'); /*print_r($_SESSION)*/?>.</address>
     <!-- /container -->
     <script src="<?php echo $appPath; ?>/js/validation.js"></script>
     <script type="text/javascript">

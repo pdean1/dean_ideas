@@ -2,8 +2,8 @@
 /**
  * This file aids in sending email messages to a user
  */
-require_once 'Mail.php';
-require_once 'Mail/RFC822.php';
+require_once 'Mail-1.3.0/Mail.php';
+require_once 'Mail-1.3.0/Mail/RFC822.php';
 
 /**
  * This function helps send email messages
